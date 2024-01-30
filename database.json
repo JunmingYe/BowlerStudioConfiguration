@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/JunmingYe/javaCad_JunmingYe.git": [
+      "https://github.com/JunmingYe/javaCad_JunmingYe.git",
+      "1706622050589"
+    ],
     "https://github.com/JunmingYe/helloWorld_JunmingYe.git": [
       "https://github.com/JunmingYe/helloWorld_JunmingYe.git",
       "1706621667898"
@@ -10,6 +14,10 @@
     "https://github.com/JunmingYe/helloWorld_JunmingYe.git:helloWorld.groovy": [
       "https://github.com/JunmingYe/helloWorld_JunmingYe.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/JunmingYe/javaCad_JunmingYe.git:javaCad.groovy": [
+      "https://github.com/JunmingYe/javaCad_JunmingYe.git",
+      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
