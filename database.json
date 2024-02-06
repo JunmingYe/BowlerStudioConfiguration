@@ -12,6 +12,10 @@
       "BancroftKineticSystemsClass/KineticSystems_2024_04",
       "1706623310033"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1707233694262"
+    ],
     "https://github.com/JunmingYe/helloWorld_JunmingYe.git": [
       "https://github.com/JunmingYe/helloWorld_JunmingYe.git",
       "1706621667898"
@@ -26,13 +30,13 @@
       "https://github.com/JunmingYe/helloWorld_JunmingYe.git",
       "helloWorld.groovy"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "Nametag.groovy"
-    ],
-    "https://github.com/JunmingYe/javaCad_JunmingYe.git:javaCad.groovy": [
-      "https://github.com/JunmingYe/javaCad_JunmingYe.git",
-      "javaCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
