@@ -30,13 +30,13 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobot.xml"
     ],
-    "https://github.com/JunmingYe/helloWorld_JunmingYe.git:helloWorld.groovy": [
-      "https://github.com/JunmingYe/helloWorld_JunmingYe.git",
-      "helloWorld.groovy"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "servo.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotCad.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
+      "SimpleRobotCad.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
