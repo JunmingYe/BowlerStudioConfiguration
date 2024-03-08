@@ -30,13 +30,13 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobot.xml"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
+      "TestKinematics.groovy"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobotCad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
-      "Nametag.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
