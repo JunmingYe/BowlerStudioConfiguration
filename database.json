@@ -34,6 +34,10 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "TestKinematics.groovy"
     ],
+    "https://github.com/JunmingYe/DHparameter.git:DHparameter.xml": [
+      "https://github.com/JunmingYe/DHparameter.git",
+      "DHparameter.xml"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobotCad.groovy"
