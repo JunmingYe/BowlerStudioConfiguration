@@ -46,9 +46,9 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobot.xml"
     ],
-    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobot.xml": [
-      "https://github.com/madhephaestus/VexVitaminsRobot.git",
-      "VexVitaminsRobot.xml"
+    "https://github.com/JunmingYe/VexVitaminsRobot_copy.git:VexVitaminsRobot_copy.xml": [
+      "https://github.com/JunmingYe/VexVitaminsRobot_copy.git",
+      "VexVitaminsRobot_copy.xml"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:TestKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
