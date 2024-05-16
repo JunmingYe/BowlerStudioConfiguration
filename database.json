@@ -30,6 +30,18 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Play",
+      "Game",
+      "X-Box",
+      "Dragon"
+    ],
+    "linkDeviceName": "virtualDev",
+    "robotName": "VexVitaminsRobot",
+    "robotGitFile": "VexVitaminsRobot_copy.xml",
+    "robotGit": "https://github.com/JunmingYe/VexVitaminsRobot_copy.git"
+  },
   "MenueSettings": {
     "printCSG": true
   },
@@ -39,33 +51,13 @@
     "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
   },
   "studio-open-git": {
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
-      "SimpleRobot.xml"
-    ],
     "https://github.com/JunmingYe/VexVitaminsRobot_copy.git:VexVitaminsRobot_copy.xml": [
       "https://github.com/JunmingYe/VexVitaminsRobot_copy.git",
       "VexVitaminsRobot_copy.xml"
     ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
-      "TestKinematics.groovy"
-    ],
-    "https://github.com/JunmingYe/DHparameter.git:DHparameter.xml": [
-      "https://github.com/JunmingYe/DHparameter.git",
-      "DHparameter.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
-      "SimpleRobotCad.groovy"
-    ],
     "https://github.com/JunmingYe/VexVitaminsRobot_copy.git:RCcontrol.groovy": [
       "https://github.com/JunmingYe/VexVitaminsRobot_copy.git",
       "RCcontrol.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:Nametag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
-      "Nametag.groovy"
     ]
   },
   "BowlerStudioConfigs": {
