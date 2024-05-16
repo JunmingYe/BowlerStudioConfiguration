@@ -41,6 +41,11 @@
   "MenueSettings": {
     "printCSG": true
   },
+  "PhysicsWidget": {
+    "movingObjects": "fieldElements.groovy",
+    "gitStatic": "",
+    "gitMoving": "https://github.com/madhephaestus/VexHighStakes2024.git"
+  },
   "studio-open-git": {
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
