@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "": [
-      "Project ",
-      "1715861103892"
-    ],
     "https://github.com/JunmingYe/javaCad_JunmingYe.git": [
       "https://github.com/JunmingYe/javaCad_JunmingYe.git",
       "1706622050589"
@@ -62,6 +58,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
       "SimpleRobotCad.groovy"
+    ],
+    "https://github.com/JunmingYe/VexVitaminsRobot_copy.git:RCcontrol.groovy": [
+      "https://github.com/JunmingYe/VexVitaminsRobot_copy.git",
+      "RCcontrol.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git:Nametag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group03.git",
