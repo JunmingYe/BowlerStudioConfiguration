@@ -66,6 +66,10 @@
     "https://github.com/JunmingYe/VexVitaminsRobot_copy.git:RCcontrol.groovy": [
       "https://github.com/JunmingYe/VexVitaminsRobot_copy.git",
       "RCcontrol.groovy"
+    ],
+    "https://github.com/madhephaestus/VexVitaminsRobot.git:VexVitaminsRobotCad.groovy": [
+      "https://github.com/madhephaestus/VexVitaminsRobot.git",
+      "VexVitaminsRobotCad.groovy"
     ]
   },
   "BowlerStudioConfigs": {
