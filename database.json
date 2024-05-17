@@ -43,7 +43,13 @@
       "Play",
       "Game",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
     ],
     "linkDeviceName": "virtualDev",
     "robotName": "VexVitaminsRobot",
